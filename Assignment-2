@@ -1,0 +1,116 @@
+Here are the answers to your questions:
+
+### 1. Water to be Added
+
+Let the quantity of water to be added be \( x \) liters.
+
+- **Current Milk-Water Mixture**:
+  - Milk = \( \frac{2}{5} \) of the mixture (since \( 2 + 3 = 5 \)):
+    \[
+    \text{Milk} = 40 \text{ liters} \implies \text{Total mixture} = \frac{40}{\frac{2}{5}} = 100 \text{ liters}.
+    \]
+  - Water = \( \frac{3}{5} \times 100 = 60 \text{ liters} \).
+
+- **Adding Water**:
+  - New total water = \( 60 + x \).
+  - New total mixture = \( 100 + x \).
+
+- **New Ratio**:
+  \[
+  \frac{40}{60 + x} = \frac{4}{11}.
+  \]
+
+Cross-multiplying:
+\[
+4(60 + x) = 40 \times 11 \implies 240 + 4x = 440 \implies 4x = 200 \implies x = 50.
+\]
+
+**Answer**: **50 liters** of water should be added.
+
+---
+
+### 2. Points where \( 2x + 3y = 0 \) Meets Axes
+
+- **X-axis (where \( y = 0 \))**:
+  \[
+  2x + 3(0) = 0 \implies x = 0 \implies \text{Point} = (0, 0).
+  \]
+
+- **Y-axis (where \( x = 0 \))**:
+  \[
+  2(0) + 3y = 0 \implies y = 0 \implies \text{Point} = (0, 0).
+  \]
+
+**Answer**: **(0, 0)** for both axes.
+
+---
+
+### 3. Finding \( a \) and \( b \)
+
+Given:
+\[
+a^2 - b^2 = 19 \implies (a - b)(a + b) = 19.
+\]
+Since 19 is prime, the pairs are:
+1. \( (1, 19) \)
+2. \( (19, 1) \)
+
+Assuming \( a - b = 1 \) and \( a + b = 19 \):
+\[
+a - b = 1 \quad \text{and} \quad a + b = 19.
+\]
+Adding:
+\[
+2a = 20 \implies a = 10,
+\]
+Subtracting:
+\[
+2b = 18 \implies b = 9.
+\]
+
+**Answer**: \( a = 10 \), \( b = 9 \).
+
+---
+
+### 4. Finding \( a^3 + b^3 + c^3 + 3abc \)
+
+Using the identity:
+\[
+a^3 + b^3 + c^3 + 3abc = (a + b + c)^3.
+\]
+Given:
+\[
+a + b + c = 5 \quad \text{and} \quad a^2 + b^2 + c^2 = 10.
+\]
+Calculate:
+\[
+(a + b + c)^3 = 5^3 = 125.
+\]
+
+**Answer**: **125**.
+
+---
+
+### 5. Two-Digit Numbers
+
+Let the first two-digit number be \( 10a + b \), where \( a \) and \( b \) are consecutive integers. The second number is \( 10b + a \).
+
+**Conditions**:
+- \( a + b \) is a perfect square.
+- \( (10a + b) + (10b + a) = 11(a + b) \) is a perfect square.
+
+Assuming \( a = x \) and \( b = x + 1 \):
+1. Then \( a + b = 2x + 1 \).
+2. Possible pairs for \( x = 1, 2, 3, 4 \):
+   - \( a = 4, b = 5 \) gives \( 4 + 5 = 9 \) (perfect square).
+
+**Numbers**:
+- First number = \( 10(4) + 5 = 45 \).
+- Second number = \( 10(5) + 4 = 54 \).
+
+**Sum**:
+\[
+45 + 54 = 99 \quad \text{and} \quad \sqrt{99} \approx 9.95.
+\]
+
+**Answer**: **Numbers are 45 and 54; sum's square root is approximately 9.95.**
